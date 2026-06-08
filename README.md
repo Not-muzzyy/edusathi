@@ -272,5 +272,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  built by contributors : 1. Mohammed Muzammil C <br> 2. Mohammed Muzammil 3. Maniyar Zahid Ahmed <br> 
+  built by contributors : 1. Mohammed Muzammil C <br> 2. Mohammed Muzammil 3. Maniyar Zahid Ahmed <br> 4. K M Manuja
 </p>
