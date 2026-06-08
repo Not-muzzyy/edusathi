@@ -10,7 +10,7 @@
 <h3 align="center">AI-Powered Study Companion for VSKUB Students</h3>
 
 <p align="center">
-  A production-grade, role-based educational platform that uses <strong>RAG (Retrieval-Augmented Generation)</strong> and <strong>LLMs</strong> to help students learn from their own study materials — with AI tutoring, adaptive quizzes, exam simulations, flashcards, and progress tracking.
+  A production-grade, role-based educational platform that uses <strong>RAG (Retrieval-Augmented Generation)</strong> and <strong>LLMs</strong> to help students learn from their own study materials — with AI tutoring, adaptive quizzes, exam simulations, flashcards, and progress tracking and separate features 
 </p>
 
 ---
