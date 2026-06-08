@@ -272,5 +272,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Built with ❤️ for VSKUB Students
+  built by contributors : Mohammed Muzammil C <mohammedmuzammil643@gmail.com>
 </p>
